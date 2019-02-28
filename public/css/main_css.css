@@ -1,0 +1,26 @@
+
+
+.uper {
+    margin-top: 20px;
+}
+
+.custom-btn{
+    margin-bottom: 15px;
+}
+
+.btn {
+    padding-left:30px;
+    padding-right:30px;
+}
+
+thead>tr>td{
+    font-weight: bold;
+}
+
+h2,p{
+    text-align: center;
+}
+
+.alert {
+    margin-bottom: 0;
+}
